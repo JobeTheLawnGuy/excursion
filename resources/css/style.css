@@ -1,2 +1,16 @@
-html {background-color:black
+body {background-color: black;
       text-align: center;}
+
+h1 {font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;}
+
+a {font-family: Verdana;
+   color: aquamarine;
+   font-size: 16px;}
+
+p {font-family: Verdana
+   color: gray;
+   font-size: 21px;}
